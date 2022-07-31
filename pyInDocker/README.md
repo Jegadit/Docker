@@ -5,7 +5,7 @@
 - cd into pyInDocker folder
 - docker build -t testing . %% docker build -t <build file> <path to files> %%
 
-#### Now if you see the docker images avaliable, you can see a new image called testing.
+#### Now if you see the docker images avaliable, you can see a new REPOSITORY called testing.
 
 - docker run testing
 
